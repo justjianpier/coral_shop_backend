@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: coral_shop_backend
+server:
+  port: 8080
